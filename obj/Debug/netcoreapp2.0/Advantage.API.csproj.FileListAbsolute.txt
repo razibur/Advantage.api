@@ -1,0 +1,12 @@
+L:\coding\programming\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.deps.json
+L:\coding\programming\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.json
+L:\coding\programming\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.dev.json
+L:\coding\programming\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.dll
+L:\coding\programming\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.pdb
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.csprojAssemblyReference.cache
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.csproj.CoreCompileInputs.cache
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfoInputs.cache
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfo.cs
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.dll
+L:\coding\programming\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.pdb
